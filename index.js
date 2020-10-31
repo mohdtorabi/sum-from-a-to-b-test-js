@@ -1,5 +1,4 @@
 
-// eslint-disable-next-line func-style
 function sum(fromN, toN) {
   if (fromN === toN) {
     return toN;
